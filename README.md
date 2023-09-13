@@ -1,1 +1,1 @@
-# summarizing-automobile-evaluation-data
+In the following project, I used what I've learned about summarising categorical data to analyse a sample from a popular open-source dataset - the car evaluation dataset from the UCI Machine Learning Repository. I created tables of frequencies and proportions by country, buying cost, luggage capacity, etc.
